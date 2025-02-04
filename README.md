@@ -34,7 +34,7 @@ The Color Guessing Game is a fun and interactive game where players must guess t
 
 Clone the repository:
 
--git clone https://github.com/your-username/color-guessing-game.git
+-git clone https://github.com/OkechukwuMiracle/color-game.git
 
 Navigate to the project folder:
 
