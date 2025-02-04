@@ -60,7 +60,7 @@ const App = () => {
       <button onClick={startNewGame} data-testid="newGameButton">New Game</button>
       {showPopup && (
         <div className="popup">
-          <p>You selected the wrong color! <br /> Try again.😥❌</p>
+          <p>You selected the wrong color! <br /> Try again..😥❌</p>
           <p>Make sure you select the correct matching colors.</p>
           <button onClick={startNewGame}>Restart Game</button>
         </div>
